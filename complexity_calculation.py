@@ -5,16 +5,16 @@ from textstat import flesch_kincaid_grade
 
 # Input sentences 
 sentences = [
-    "Compassion",
-    "Compassion is good",
-    "Compassion is a moral virtue",
-    "I try to show compassion whenever I can",
-    "Let me tell you what I think about showing compassion",
-    "I believe that compassion is the highest of all virtues",
-    "Compassion is the greatest virtue",
-    "I will show compassion to everyone who needs it",
-    "I always show compassion to my friends",
-    "Please have some compassion and help them"
+    "Honesty",
+    "I am honest",
+    "I am honest to you because that is the right thing to do",
+    "Honesty is good",
+    "Honesty is a moral virtue", 
+    "I really value honesty so I will tell you the truth", 
+    "As a moral philosopher, I think highly of honest people", 
+    "I believe that honesty is the highest virtue",
+    "I am always honest to everyone",
+    "Let me be honest to you and tell you",
 ]
 
 # Custom function to estimate sentence complexity
