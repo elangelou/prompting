@@ -10,6 +10,6 @@ def evaluate_text(text):
 def main():
     text = input("Enter a sentence to evaluate: ")
     evaluate_text(text)
-#test comment
+
 if __name__ == "__main__":
     main()
